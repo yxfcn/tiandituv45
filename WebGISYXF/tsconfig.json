@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "src/ts/tdt/main_loadtdt.ts",
+    "src/ts/tdt/TDTTileLayer.ts"
+  ],
+  "include": [
+    "./src/ts/*"
+  ]
+}
